@@ -61,7 +61,7 @@ The project uses multiple files from the Home Credit dataset, including:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/TuringCollegeSubmissions/jankkk-DS.v2.5.3.4.1.git
+    git clone https://github.com/janklaszczyk/home-credit-risk-prediction-app.git
     ```
 
 2. **Install dependencies:**
