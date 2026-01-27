@@ -80,6 +80,7 @@ The project uses multiple files from the Home Credit dataset, including:
 ### Deployment
 
 The final model and app are designed to be deployed on Google Cloud Platform using Streamlit. See instructions in `II_ML_modeling&deployment.ipynb` and `app.py`.
+The model was deployed as a user friendly [app](https://credit-risk-predictor-450359247412.europe-central2.run.app/) (PoC)
 ## Results
 
 - **Feature Importance:** Top features include `ORGANIZATION_TYPE`, `EXT_SOURCE_1/2/3`, `DAYS_BIRTH`, and `AMT_CREDIT`.
